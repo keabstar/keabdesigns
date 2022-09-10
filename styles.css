@@ -156,7 +156,6 @@ html {
     border-radius: 15px;
     margin-top: 10px;
     transition: 0.5s;
-    cursor: pointer;
 }
 
 .download-btn:hover {
